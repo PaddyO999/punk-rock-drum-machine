@@ -56,7 +56,6 @@ object_location,image_small,image_thumb
 /objects/The-Laughing-Hyaena.mp3,,
 /objects/TheThemeFromPunkRockDrumMachine.mp3,,
 /objects/Truman.mp3,,
-/objects/WayOutCover.jpg,/objects/small/wayoutcover_sm.jpg,/objects/thumbs/wayoutcover_th.jpg
 /objects/Y2K.mp3,,
 /objects/login-back1.jpg,/objects/small/login-back1_sm.jpg,/objects/thumbs/login-back1_th.jpg
 /objects/prdm-shirt.jpg,/objects/small/prdm-shirt_sm.jpg,/objects/thumbs/prdm-shirt_th.jpg
@@ -64,6 +63,7 @@ object_location,image_small,image_thumb
 /objects/prdm-toon0002.jpg,/objects/small/prdm-toon0002_sm.jpg,/objects/thumbs/prdm-toon0002_th.jpg
 /objects/prdm-toon0003.jpg,/objects/small/prdm-toon0003_sm.jpg,/objects/thumbs/prdm-toon0003_th.jpg
 /objects/prdm_konky.jpg,/objects/small/prdm_konky_sm.jpg,/objects/thumbs/prdm_konky_th.jpg
+/objects/prdmdrumlogo.jpg,/objects/small/prdmdrumlogo_sm.jpg,/objects/thumbs/prdmdrumlogo_th.jpg
 /objects/punk-carter2.jpg,/objects/small/punk-carter2_sm.jpg,/objects/thumbs/punk-carter2_th.jpg
 /objects/way-trophy.jpg,/objects/small/way-trophy_sm.jpg,/objects/thumbs/way-trophy_th.jpg
 /objects/wayout-cover2.jpg,/objects/small/wayout-cover2_sm.jpg,/objects/thumbs/wayout-cover2_th.jpg
