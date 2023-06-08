@@ -1,4 +1,4 @@
----
+ ---
 title: About
 layout: about
 permalink: /about.html
@@ -12,22 +12,36 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About Punk Rock Drum Machine Digital Archive
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection features the creative output from the artistic entity known as Punk Rock Drum Machine  
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+items from the Punk Rock Drum Machine's recent albums can be found at the Punk Rock Drum Machine [Bandcamp Site](https://punkrockdrummachine.bandcamp.com/music)  
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+The early recordings can only be found in this collection.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Punk Rock Drum Machine describes itself as a self serving bastard making music and art it wants to hear or see. They don't play live, but they put out an album every year and no one gets hurt.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+Sometimes visual creations are made to accompany the audio output or to win academic approval
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+##Albums##
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="CacheCowAlbumCover.jpg" width="75" %} 
+
+The musical output of Punk Rock Drum Machine began as just a creative outlet utilizing a 4 track analog cassette recorder and utilizing early internet drum loops.  A relocation to the midwest led to the acquiring a 2005 Tascam digital analog 8 track that outputs WAV files but features analog controls.  The files are then mastered in Audacity.
+
+##Visual Art##
+
+{% include feature/image.html objectid="PRDM-WAV-poster.jpg" width="75" %} 
+
+All albums necessitated artwork. Sometimes front and back covers when compact discs were the primary way of sharing and an occasional poster to annoy local businesses or as a way of keeping Adobe CS skills sharp. Eventually many art ideas were required for academic progression. Sadly many of these projects were made in Flash so they are lost to time like tears in rain.  
+
+##Comic Strip##
+
+{% include feature/image.html objectid="prdm-toon0001.jpg" width="75" %} 
+
+At one point it felt like the robot mascot of Punk Rock Drum Machine needed a cartoon.  It started as a weekly run multi-panel strip that was drawn in Flash and published on Tumblr.  It met with the same public response as the audio output and was eventually paused, but never officially abandoned.  The robot is a friendly one that utilizes DIY/Punk Rock logic as opposed to AI and will not bring about armageddon.
+
+{% include feature/image.html objectid="PRDM-photo" width="75" %} 
+
+

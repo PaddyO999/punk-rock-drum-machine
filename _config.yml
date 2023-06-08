@@ -22,7 +22,7 @@ title: Punk Rock Drum Machine
 tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Punk Rock Drum Machine Digital Archive hosts creative output from the artistic entity known as Punk Rock Drum Machine"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -43,16 +43,6 @@ metadata: Punk-Rock-Drum-Machine-metadata
 #     dir: 'items'
 #     extension: 'html' 
 #     filter: 'objectid'  
-
-##########
-# Site/Organization Branding 
-#   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-#   To remove the branding, comment out these values, or delete them. 
-#
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
 # GOOGLE SERVICES [optional!]
