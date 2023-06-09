@@ -57,7 +57,9 @@ object_location,image_small,image_thumb
 /objects/TheThemeFromPunkRockDrumMachine.mp3,,
 /objects/Truman.mp3,,
 /objects/Y2K.mp3,,
+/objects/coverboy.gif,,
 /objects/login-back1.jpg,/objects/small/login-back1_sm.jpg,/objects/thumbs/login-back1_th.jpg
+/objects/money.jpg,/objects/small/money_sm.jpg,/objects/thumbs/money_th.jpg
 /objects/prdm-shirt.jpg,/objects/small/prdm-shirt_sm.jpg,/objects/thumbs/prdm-shirt_th.jpg
 /objects/prdm-toon0001.jpg,/objects/small/prdm-toon0001_sm.jpg,/objects/thumbs/prdm-toon0001_th.jpg
 /objects/prdm-toon0002.jpg,/objects/small/prdm-toon0002_sm.jpg,/objects/thumbs/prdm-toon0002_th.jpg
@@ -66,4 +68,4 @@ object_location,image_small,image_thumb
 /objects/prdmdrumlogo.jpg,/objects/small/prdmdrumlogo_sm.jpg,/objects/thumbs/prdmdrumlogo_th.jpg
 /objects/punk-carter2.jpg,/objects/small/punk-carter2_sm.jpg,/objects/thumbs/punk-carter2_th.jpg
 /objects/way-trophy.jpg,/objects/small/way-trophy_sm.jpg,/objects/thumbs/way-trophy_th.jpg
-/objects/wayout-cover2.jpg,/objects/small/wayout-cover2_sm.jpg,/objects/thumbs/wayout-cover2_th.jpg
+/objects/wy.jpg,/objects/small/wy_sm.jpg,/objects/thumbs/wy_th.jpg

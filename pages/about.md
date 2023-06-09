@@ -27,14 +27,14 @@ Sometimes visual creations are made to accompany the audio output or to win acad
 
 {% include feature/image.html objectid="prdm0005" width="50" %} 
 
-The musical output of Punk Rock Drum Machine began as just a creative outlet utilizing a 4 track analog cassette recorder and utilizing early internet drum loops.  A relocation to the midwest led to the acquiring a 2005 Tascam digital analog 8 track that outputs WAV files but features analog controls.  The files are then mastered in Audacity.
+The musical output of Punk Rock Drum Machine began as just a creative outlet captured a 4 track analog cassette recorder and utilizing early internet drum loops.  A relocation to the midwest led to the acquiring a 2005 Tascam digital analog 8 track that outputs WAV files but features analog controls.  The files are then mastered in Audacity.
 
 ### Visual Art
 
 
 {% include feature/image.html objectid="prdm0014" width="75" %} 
 
-All albums necessitated artwork. Sometimes front and back covers when compact discs were the primary way of sharing and an occasional poster to annoy local businesses or as a way of keeping Adobe CS skills sharp. Eventually many art ideas were required for academic progression. Sadly many of these projects were made in Flash so they are lost to time like tears in rain.  
+All albums necessitated artwork. Sometimes front and back covers when compact discs were the primary way of sharing and an occasional poster to annoy local businesses, or as a way of keeping Adobe CS skills sharp. Eventually many art ideas were required for academic progression. Sadly many of these projects were made in Flash so they are lost to time like tears in rain.  
 
 ### Comic Strip
 
