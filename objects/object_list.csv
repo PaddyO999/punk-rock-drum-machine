@@ -6,12 +6,9 @@ object_location,image_small,image_thumb
 /objects/A-VeryInconvenientSong.mp3,,
 /objects/AStrangerDay.mp3,,
 /objects/Adrenalyn.mp3,,
-/objects/ApartmentCover.jpg,/objects/small/apartmentcover_sm.jpg,/objects/thumbs/apartmentcover_th.jpg
 /objects/Approval.mp3,,
-/objects/AreYouARobotCover.jpg,/objects/small/areyouarobotcover_sm.jpg,/objects/thumbs/areyouarobotcover_th.jpg
 /objects/BadElf.mp3,,
 /objects/BePacific.mp3,,
-/objects/BlursdayCover.jpg,/objects/small/blursdaycover_sm.jpg,/objects/thumbs/blursdaycover_th.jpg
 /objects/BusStop85.mp3,,
 /objects/CacheCowAlbumCover.jpg,/objects/small/cachecowalbumcover_sm.jpg,/objects/thumbs/cachecowalbumcover_th.jpg
 /objects/CrisCarter.mp3,,
@@ -44,7 +41,6 @@ object_location,image_small,image_thumb
 /objects/ProtestSongforAnyone-toSing.mp3,,
 /objects/PunkRockDrumMachineLogo.png,/objects/small/punkrockdrummachinelogo_sm.jpg,/objects/thumbs/punkrockdrummachinelogo_th.jpg
 /objects/PunkaliciousCover.jpg,/objects/small/punkaliciouscover_sm.jpg,/objects/thumbs/punkaliciouscover_th.jpg
-/objects/RestartCover.jpg,/objects/small/restartcover_sm.jpg,/objects/thumbs/restartcover_th.jpg
 /objects/RestrainingOrder.mp3,,
 /objects/SadMusicCover.jpg,/objects/small/sadmusiccover_sm.jpg,/objects/thumbs/sadmusiccover_th.jpg
 /objects/SandCastles.mp3,,
@@ -57,6 +53,9 @@ object_location,image_small,image_thumb
 /objects/TheThemeFromPunkRockDrumMachine.mp3,,
 /objects/Truman.mp3,,
 /objects/Y2K.mp3,,
+/objects/apartmentcover.jpg,/objects/small/apartmentcover_sm.jpg,/objects/thumbs/apartmentcover_th.jpg
+/objects/areyouarobotcover.jpg,/objects/small/areyouarobotcover_sm.jpg,/objects/thumbs/areyouarobotcover_th.jpg
+/objects/blursdaycover.jpg,/objects/small/blursdaycover_sm.jpg,/objects/thumbs/blursdaycover_th.jpg
 /objects/coverboy.gif,,
 /objects/login-back1.jpg,/objects/small/login-back1_sm.jpg,/objects/thumbs/login-back1_th.jpg
 /objects/money.jpg,/objects/small/money_sm.jpg,/objects/thumbs/money_th.jpg
@@ -132,5 +131,6 @@ object_location,image_small,image_thumb
 /objects/prdm_konky.jpg,/objects/small/prdm_konky_sm.jpg,/objects/thumbs/prdm_konky_th.jpg
 /objects/prdmdrumlogo.jpg,/objects/small/prdmdrumlogo_sm.jpg,/objects/thumbs/prdmdrumlogo_th.jpg
 /objects/punk-carter2.jpg,/objects/small/punk-carter2_sm.jpg,/objects/thumbs/punk-carter2_th.jpg
+/objects/restartcover.jpg,/objects/small/restartcover_sm.jpg,/objects/thumbs/restartcover_th.jpg
 /objects/way-trophy.jpg,/objects/small/way-trophy_sm.jpg,/objects/thumbs/way-trophy_th.jpg
 /objects/wy.jpg,/objects/small/wy_sm.jpg,/objects/thumbs/wy_th.jpg
