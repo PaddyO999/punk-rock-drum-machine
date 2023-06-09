@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="prdm0015" 25%} 
+{% include feature/jumbotron.html objectid="prdm0015" %} 
 
 ## About Punk Rock Drum Machine Digital Archive
 
@@ -32,7 +32,7 @@ The musical output of Punk Rock Drum Machine began as just a creative outlet cap
 ### Visual Art
 
 
-{% include feature/image.html objectid="prdm0062" width="50" %} 
+{% include feature/image.html objectid="prdm0014" width="50" %} 
 
 All albums necessitated artwork. Sometimes front and back covers when compact discs were the primary way of sharing and an occasional poster to annoy local businesses, or as a way of keeping Adobe CS skills sharp. Eventually many art ideas were required for academic progression. Sadly many of these projects were made in Flash so they are lost to time like tears in rain.  
 
