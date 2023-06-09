@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="prdm0015" %} 
+{% include feature/jumbotron.html objectid="prdm0015" 25%} 
 
 ## About Punk Rock Drum Machine Digital Archive
 
@@ -25,7 +25,7 @@ Sometimes visual creations are made to accompany the audio output or to win acad
 ### Albums
 
 
-{% include feature/image.html objectid="prdm0005" width="50" %} 
+{% include feature/image.html objectid="prdm0005" width="25" %} 
 
 The musical output of Punk Rock Drum Machine began as just a creative outlet captured a 4 track analog cassette recorder and utilizing early internet drum loops.  A relocation to the midwest led to the acquiring a 2005 Tascam digital analog 8 track that outputs WAV files but features analog controls.  The files are then mastered in Audacity.
 
